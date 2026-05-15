@@ -67,24 +67,24 @@ Java ████████░░ | Go ██████░░░░ | SQL �
 ### 🎨 Frontend Technologies
 | React.js | Next.js | Vue.js | Tailwind CSS | Redux | GraphQL Client |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 🌱 Learning & Growing | 🌱 Exploring | 🌱 Improving | 🌱 Mastering | 🌱 Deepening | 🌱 Expanding |
 
 ### 🔧 Backend & Cloud
 | Node.js | Express | Django | FastAPI | Docker | Kubernetes |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Expert | Expert | Advanced | Advanced | Expert | Advanced |
 
 ### 📊 Databases & Data Tools
 | PostgreSQL | MongoDB | Redis | Firebase | Elasticsearch | Kafka |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Expert | Advanced | Advanced | Intermediate | Intermediate | Advanced |
 
 ### ☁️ Cloud & DevOps
 ```
-AWS (EC2, S3, Lambda, RDS, CloudFront) ⭐⭐⭐⭐⭐
-Google Cloud Platform (GCP) ⭐⭐⭐⭐
-GitHub Actions & CI/CD Pipelines ⭐⭐⭐⭐⭐
-Microservices Architecture ⭐⭐⭐⭐⭐
+AWS (EC2, S3, Lambda, RDS, CloudFront) → Expert Level
+Google Cloud Platform (GCP) → Advanced Level
+GitHub Actions & CI/CD Pipelines → Expert Level
+Microservices Architecture → Expert Level
 ```
 
 ---
@@ -172,7 +172,7 @@ Machine learning meets user delight. Personalized recommendations that actually 
 Features:
 🧠 Collaborative filtering algorithm
 📚 NLP-based content similarity
-A/B 🧪 Testing framework
+🧪 A/B Testing framework
 🎯 Real-time inference API
 📈 User behavior analytics
 ```
@@ -184,11 +184,10 @@ A/B 🧪 Testing framework
 ---
 
 ### 📡 APIHub - REST API Documentation Generator
-**[GitHub](https://github.com/deepthinagaraju/apihub) | 500+ ⭐**
+**[GitHub](https://github.com/deepthinagaraju/apihub)**
 
 Open source tool trusted by developers worldwide. Making API docs beautiful and interactive.
 
-- 🌟 **500+ GitHub Stars**
 - 📖 **10K+ weekly downloads**
 - 🛠️ **Actively maintained** with 50+ contributors
 - 🎨 **Beautiful UI** with dark mode support
@@ -218,7 +217,7 @@ Open source tool trusted by developers worldwide. Making API docs beautiful and 
 │  └─ Performance optimization patches & bug fixes
 │
 ├─ APIHub (Maintainer)
-│  └─ REST API documentation generator | 500+ ⭐
+│  └─ REST API documentation generator
 │
 └─ 100+ merged pull requests across major projects
    ├─ Next.js
@@ -286,14 +285,6 @@ I'm always excited about:
 
 <div align="center">
 
-### 🌟 If you find my work interesting, consider starring some repos!
-
-```
- ⭐ Repository Stars are fuel for Open Source Dreams ⭐
-```
-
-<br>
-
 ### 💻 Latest Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepthinagaraju&style=flat-square&color=blue)
@@ -304,6 +295,6 @@ I'm always excited about:
 
 ---
 
-**P.S.** Enjoy! Feel free to fork, star ⭐, or collaborate on any projects. Let's build amazing things together! 🚀
+**Let's build amazing things together!** 🚀
 
 </div>
