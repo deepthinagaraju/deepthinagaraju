@@ -64,59 +64,144 @@ JavaScript (ES6+) ██████████ | Python ███████�
 Java ████████░░ | Go ██████░░░░ | SQL ██████████
 ```
 
+---
+
 ### 🎨 Frontend Technologies
 
 <div align="center">
 
-**My Frontend Learning Journey**
+#### 📱 My Frontend Toolkit
 
 ```
-React.js          →  🌱 Building interactive experiences
-Next.js           →  🌱 Exploring full-stack React magic
-Vue.js            →  🌱 Deepening component knowledge
-Tailwind CSS      →  🌱 Mastering utility-first design
-Redux             →  🌱 Learning state management patterns
-GraphQL Client    →  🌱 Expanding data fetching skills
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                              ┃
+┃  ⚛️  React.js          🌱 Building interactive UI
+┃  ▲   Next.js           🌱 Full-stack magic
+┃  💚  Vue.js            🌱 Progressive learning
+┃  🎨  Tailwind CSS      🌱 Utility-first design
+┃  📦  Redux             🌱 State management
+┃  ⚡  GraphQL           🌱 Query optimization
+┃                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-**Tech Badges:**
+**Quick Access:**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
+[![React](https://img.shields.io/badge/⚛️%20React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/▲%20Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Vue](https://img.shields.io/badge/💚%20Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Tailwind](https://img.shields.io/badge/🎨%20Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Redux](https://img.shields.io/badge/📦%20Redux-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
+[![GraphQL](https://img.shields.io/badge/⚡%20GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
 
 </div>
+
+---
 
 ### 🔧 Backend & Cloud
 
 <div align="center">
 
-| **Tech** | **Node.js** | **Express** | **Django** | **FastAPI** | **Docker** | **Kubernetes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Level** | Expert | Expert | Advanced | Advanced | Expert | Advanced |
+#### 🚀 Server-Side Arsenal
+
+```
+╔════════════════════════════════════════════╗
+║                                            ║
+║  Node.js       ████████████░░  EXPERT      ║
+║  Express       ████████████░░  EXPERT      ║
+║  Django        ██████████░░░░  ADVANCED    ║
+║  FastAPI       ████████░░░░░░  ADVANCED    ║
+║  Docker        ████████████░░  EXPERT      ║
+║  Kubernetes    ██████████░░░░  ADVANCED    ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+**Tech Stack Badges:**
+
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
 </div>
+
+---
 
 ### 📊 Databases & Data Tools
 
 <div align="center">
 
-| **Tech** | **PostgreSQL** | **MongoDB** | **Redis** | **Firebase** | **Elasticsearch** | **Kafka** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Level** | Expert | Advanced | Advanced | Intermediate | Intermediate | Advanced |
+#### 🗄️ Data Management Hub
+
+```
+┌─────────────────────────────────────────┐
+│                                         │
+│  🐘 PostgreSQL     ████████████░  EXPERT      │
+│  🍃 MongoDB        ██████████░░░  ADVANCED    │
+│  🔴 Redis          ██████████░░░  ADVANCED    │
+│  🔥 Firebase       ████████░░░░░  INTERMEDIATE│
+│  🔍 Elasticsearch  ████████░░░░░  INTERMEDIATE│
+│  📨 Kafka          ██████████░░░  ADVANCED    │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Database Connections:**
+
+[![PostgreSQL](https://img.shields.io/badge/🐘%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/🔴%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Firebase](https://img.shields.io/badge/🔥%20Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com)
+[![Elasticsearch](https://img.shields.io/badge/🔍%20Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co)
+[![Kafka](https://img.shields.io/badge/📨%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
 
 </div>
 
+---
+
 ### ☁️ Cloud & DevOps
+
+<div align="center">
+
+#### ⛅ Cloud Infrastructure & Deployment
+
 ```
-AWS (EC2, S3, Lambda, RDS, CloudFront) → Expert Level
-Google Cloud Platform (GCP) → Advanced Level
-GitHub Actions & CI/CD Pipelines → Expert Level
-Microservices Architecture → Expert Level
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                           ┃
+┃  ☁️  AWS ECOSYSTEM                        ┃
+┃     └─ EC2, S3, Lambda, RDS, CloudFront   ┃
+┃     └─ VPC, IAM, CloudWatch               ┃
+┃     └─ 🏆 EXPERT LEVEL                    ┃
+┃                                           ┃
+┃  🟦 Google Cloud Platform                 ┃
+┃     └─ Compute, Storage, BigQuery         ┃
+┃     └─ Cloud Run, Pub/Sub                 ┃
+┃     └─ 📊 ADVANCED LEVEL                  ┃
+┃                                           ┃
+┃  ⚙️  CI/CD & Orchestration                ┃
+┃     └─ GitHub Actions, Jenkins            ┃
+┃     └─ ArgoCD, Helm, Terraform            ┃
+┃     └─ 🏆 EXPERT LEVEL                    ┃
+┃                                           ┃
+┃  🏗️  Architecture Patterns                ┃
+┃     └─ Microservices, Serverless          ┃
+┃     └─ Event-Driven, API-First            ┃
+┃     └─ 🏆 EXPERT LEVEL                    ┃
+┃                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
+
+**Cloud Platforms:**
+
+[![AWS](https://img.shields.io/badge/☁️%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/🟦%20GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![GitHub Actions](https://img.shields.io/badge/⚙️%20GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Terraform](https://img.shields.io/badge/🏗️%20Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io)
+
+</div>
 
 ---
 
