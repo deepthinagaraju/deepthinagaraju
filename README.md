@@ -65,19 +65,50 @@ Java ████████░░ | Go ██████░░░░ | SQL �
 ```
 
 ### 🎨 Frontend Technologies
-| React.js | Next.js | Vue.js | Tailwind CSS | Redux | GraphQL Client |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🌱 Learning & Growing | 🌱 Exploring | 🌱 Improving | 🌱 Mastering | 🌱 Deepening | 🌱 Expanding |
+
+<div align="center">
+
+**My Frontend Learning Journey**
+
+```
+React.js          →  🌱 Building interactive experiences
+Next.js           →  🌱 Exploring full-stack React magic
+Vue.js            →  🌱 Deepening component knowledge
+Tailwind CSS      →  🌱 Mastering utility-first design
+Redux             →  🌱 Learning state management patterns
+GraphQL Client    →  🌱 Expanding data fetching skills
+```
+
+**Tech Badges:**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
+
+</div>
 
 ### 🔧 Backend & Cloud
-| Node.js | Express | Django | FastAPI | Docker | Kubernetes |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Expert | Expert | Advanced | Advanced | Expert | Advanced |
+
+<div align="center">
+
+| **Tech** | **Node.js** | **Express** | **Django** | **FastAPI** | **Docker** | **Kubernetes** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Level** | Expert | Expert | Advanced | Advanced | Expert | Advanced |
+
+</div>
 
 ### 📊 Databases & Data Tools
-| PostgreSQL | MongoDB | Redis | Firebase | Elasticsearch | Kafka |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Expert | Advanced | Advanced | Intermediate | Intermediate | Advanced |
+
+<div align="center">
+
+| **Tech** | **PostgreSQL** | **MongoDB** | **Redis** | **Firebase** | **Elasticsearch** | **Kafka** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Level** | Expert | Advanced | Advanced | Intermediate | Intermediate | Advanced |
+
+</div>
 
 ### ☁️ Cloud & DevOps
 ```
