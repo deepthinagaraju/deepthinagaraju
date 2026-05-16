@@ -3,7 +3,7 @@
 # 👩‍💻 Deepthi N  
 ### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Real-World+Applications">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Real-World+Applications;Let's+Code+Together!">
 
 </div>
 
@@ -16,6 +16,20 @@ Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in *
 I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I applied my technical skills to build end-to-end solutions.
 
 I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepthinagaraju&theme=purple&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=purple&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=purple&hide_border=true)
+
+</div>
 
 ---
 
@@ -40,7 +54,8 @@ const deepthi = {
     "PHP Developer Fresher",
     "Web Development Intern",
     "Entry-Level IT Roles"
-  ]
+  ],
+  currentlyLearning: "Advanced Web Development & Backend Architecture"
 };
 ```
 
@@ -54,6 +69,9 @@ const deepthi = {
   </a>
   <a href="https://www.linkedin.com/in/deepthi-nagaraju-2198162b2">
     <img src="https://img.shields.io/badge/LinkedIn-Deepthi%20N-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/deepthinagaraju">
+    <img src="https://img.shields.io/badge/GitHub-deepthinagaraju-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -143,33 +161,35 @@ const deepthi = {
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-| Certification | Issuer |
-|---|---|
-| **Python Foundation Certification** | Infosys Springboard |
-| **Introduction to MongoDB** | Simplilearn |
+| Certification | Issuer | Status |
+|---|---|---|
+| **Python Foundation Certification** | Infosys Springboard | ✅ Completed |
+| **Introduction to MongoDB** | Simplilearn | ✅ Completed |
 
 ---
 
 ## 💡 Soft Skills
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Teamwork-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Creativity-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leadership-red?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning & Improving
 
-- Advanced web development concepts  
-- PHP and database integration  
-- MongoDB and MySQL queries  
-- Git and GitHub project documentation  
-- Coding problem-solving skills  
+- 📖 Advanced web development concepts  
+- 🔌 PHP and database integration  
+- 🗄️ MongoDB and MySQL advanced queries  
+- 🔄 Git and GitHub project documentation  
+- 🧩 Coding problem-solving skills  
+- 🎨 Responsive Web Design Patterns  
 
 ---
 
@@ -177,26 +197,53 @@ const deepthi = {
 
 I am actively looking for fresher opportunities in:
 
-- Software Developer Trainee  
-- Junior Web Developer  
-- PHP Developer Fresher  
-- Full Stack Developer Intern  
-- Database Intern  
-- Entry-Level IT Roles  
+- 💼 Software Developer Trainee  
+- 🌐 Junior Web Developer  
+- 🐘 PHP Developer Fresher  
+- 🚀 Full Stack Developer Intern  
+- 🗃️ Database Intern  
+- 💻 Entry-Level IT Roles  
 
 ---
 
 ## ✨ Hobbies & Interests
 
-- 📚 Reading books  
-- 💻 Solving coding problems  
-- 🌱 Learning new skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/📚-Reading%20Books-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Coding%20Problems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌱-Learning%20New%20Skills-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Design-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 My Coding Journey
+
+```
+📅 2022 - Started BCA degree
+🎯 2023 - Built first full-stack project (Car Rental System)
+🩸 2024 - Developed Blood Bank Management System
+🏆 2024 - Earned Python & MongoDB Certifications
+🚀 2025 - Ready to launch my career!
+```
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- **Open Source Projects** - Contribute to meaningful projects
+- **Web Development** - Building interactive & responsive applications
+- **Learning Partnerships** - Growing together with fellow developers
+- **Tech Discussions** - Sharing ideas and solving problems
 
 ---
 
 <div align="center">
 
 ### "A fresher with curiosity, consistency, and confidence to grow."
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepthinagaraju&color=blueviolet)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
