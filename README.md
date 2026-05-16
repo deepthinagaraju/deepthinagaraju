@@ -3,7 +3,7 @@
 # 👩‍💻 Deepthi N  
 ### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Solutions+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Developme[...]
 
 </div>
 
@@ -13,7 +13,7 @@
 
 Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
-I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I gained hands-on experience in full-stack development.
+I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I[...]
 
 I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
 
@@ -24,13 +24,13 @@ I am currently looking for **entry-level opportunities** where I can learn, cont
 <div align="center">
   
 ### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepthinagaraju&theme=purple&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=deepthinagaraju&theme=purple&hide_border=true)
 
 ### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=purple&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=purple&hide_border=true&count_private=true)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=purple&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=purple&hide_border=true&langs_count=8)
 
 </div>
 
