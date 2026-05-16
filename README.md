@@ -3,7 +3,7 @@
 # 👩‍💻 Deepthi N  
 ### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Scalable+Solutions;Let's+Grow+Together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
-I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I applied my technical skills to create impactful solutions.
+I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**.
 
 I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
 
