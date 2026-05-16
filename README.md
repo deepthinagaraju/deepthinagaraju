@@ -1,191 +1,194 @@
 <div align="center">
 
-# Deepthi Nagaraju
+# 👩‍💻 Deepthi N  
+### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-**Full Stack Developer | Cloud Architect | Open Source Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;PHP+%7C+JavaScript+%7C+MongoDB+%7C+MySQL;Learning+Everyday+and+Building+Projects" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🌟 About Me
 
-Full-stack engineer with **5+ years of experience** building scalable, production-grade applications. I specialize in crafting elegant solutions that solve real-world problems and serve 100K+ users with 99.9% uptime. Currently a **Senior Full Stack Developer** at TechVision Solutions.
+Hi, I’m **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
-- 🌍 Based in **Bangalore, India**
-- 💼 **Senior Full Stack Developer** @ TechVision Solutions
-- 🎯 **Focus:** Scalable architectures, cloud infrastructure, system design
-- 🧠 **Learning:** Advanced Kubernetes, distributed systems
-- 🤝 **Open to:** Collaborations, mentoring, community building
+I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I gained hands-on experience in building user-friendly interfaces, managing databases, and developing admin dashboards.
+
+I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Profile Snapshot
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+```javascript
+const deepthi = {
+  name: "Deepthi N",
+  location: "Sira, Tumkur",
+  qualification: "BCA - Bachelor of Computer Applications",
+  cgpa: "8.6 / 10",
+  role: "Fresher | Aspiring Software Developer",
+  interestedIn: [
+    "Web Development",
+    "Software Development",
+    "Database Management",
+    "Full Stack Development"
+  ],
+  openTo: [
+    "Software Developer Trainee",
+    "Junior Web Developer",
+    "PHP Developer Fresher",
+    "Web Development Intern",
+    "Entry-Level IT Roles"
+  ]
+};
+```
 
 ---
 
-## 💼 Professional Experience
+## 📬 Connect With Me
 
-### Senior Full Stack Developer @ TechVision Solutions
-**Jan 2023 - Present** | Remote
+<p align="center">
+  <a href="mailto:deepthinagaraju3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deepthinagaraju3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepthi-nagaraju-2198162b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepthi%20N-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- **Analytics Platform:** Designed real-time dashboard processing 500K+ events/day with 45% latency reduction through intelligent caching
-- **Team Leadership:** Mentored 4 junior developers through code reviews, architecture decisions, and best practices
-- **Cloud Optimization:** Architected microservices on AWS, reducing infrastructure costs by 30% while improving throughput by 3x
-- **Security Implementation:** Deployed OAuth2, JWT, and role-based access control across production systems
-- **Key Tech:** React, Node.js, PostgreSQL, Docker, AWS, Redis, GraphQL
+📍 **Location:** Sira, Tumkur  
+📞 **Phone:** +91 7483063262  
 
-### Full Stack Developer @ DataSync Technologies
-**Jun 2021 - Dec 2022** | Bangalore
+---
 
-- **SaaS Platform:** Built data integration platform serving 500+ enterprises
-- **Real-time Features:** Implemented WebSocket sync enabling live collaboration
-- **API Optimization:** Reduced GraphQL query latency by 50% through intelligent caching
-- **Product Ownership:** End-to-end ownership of 3 major features with 100K+ users
-- **Key Tech:** Next.js, Python Django, MongoDB, GraphQL, GCP
+## 🛠️ Technical Skills
 
-### Junior Developer @ StartupHub Inc.
-**Jul 2019 - May 2021** | Bangalore
+### Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-- **Web Applications:** Developed 20+ responsive applications with React & Vue.js
-- **Authentication:** Built secure backends with Node.js and implemented JWT flows
-- **Testing:** Maintained 85%+ test coverage across all microservices
-- **Key Tech:** JavaScript, React, Vue.js, Node.js, Firebase
+### Web Development  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
+</p>
+
+### Databases & Tools  
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Core Subjects
+
+- Object-Oriented Programming System  
+- Database Management System  
+- Computer Networks  
 
 ---
 
 ## 🚀 Featured Projects
 
-### Real-Time Data Pipeline Dashboard
-**[View Project](https://github.com/deepthinagaraju/data-pipeline-dashboard) | [Live Demo](https://demo.example.com)**
+<table>
+<tr>
+<td width="50%">
 
-ETL monitoring platform with real-time metrics and AI-powered anomaly detection.
+### 🚗 Online Car Rental System  
+**Tech Stack:** PHP, JavaScript, HTML, CSS, MongoDB  
 
-**Impact:** 60% reduction in debugging time | 200+ active users | 500K+ events/day  
-**Performance:** Sub-100ms latency | 99.9% uptime  
-**Tech:** React | Node.js | PostgreSQL | Kafka | Docker | AWS | D3.js
+- Developed a full-stack web application for online vehicle rental.
+- Implemented vehicle search and filter options for better user experience.
+- Automated car booking, return tracking, and vehicle availability management.
+- Built an admin dashboard for inventory control, booking approvals, and customer management.
+- Added secure authentication and payment gateway features.
+- Improved browsing efficiency and reduced manual inventory effort.
 
----
+</td>
+<td width="50%">
 
-### E-Commerce Microservices Platform
-**[View Project](https://github.com/deepthinagaraju/ecommerce-platform) | [Live Demo](https://shop.example.com)**
+### 🩸 Blood Bank Management System  
+**Tech Stack:** HTML, CSS, Vanilla JavaScript, MongoDB  
 
-Production-grade e-commerce engine handling 100K+ SKUs and 10K+ concurrent users.
+- Created an online platform to manage blood donor registration.
+- Developed features to manage blood stock and blood requests.
+- Built a responsive interface for donors and blood request users.
+- Designed an admin dashboard to monitor availability and manage requests.
+- Reduced manual record handling and improved transparency.
+- Improved accessibility for blood bank-related services.
 
-**Impact:** 99.9% SLA uptime | 25% checkout conversion increase  
-**Performance:** Handles Black Friday traffic with zero downtime  
-**Tech:** Next.js | Node.js | MongoDB | Kubernetes | Redis | AWS Lambda
-
----
-
-### AI-Powered Recommendation Engine
-**[View Project](https://github.com/deepthinagaraju/ml-recommendation-engine)**
-
-Machine learning system delivering personalized content recommendations with 94% accuracy.
-
-**Impact:** 40% user engagement increase | 35% content consumption increase  
-**Tech:** Python | TensorFlow | Flask | PostgreSQL | Docker
-
----
-
-### APIHub - REST API Documentation Generator
-**[View Project](https://github.com/deepthinagaraju/apihub)**
-
-Open-source tool trusted by developers worldwide for beautiful, interactive API documentation.
-
-**Stats:** 10K+ weekly downloads | 50+ contributors | Actively maintained
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**Bachelor of Technology** in Computer Science and Engineering  
-*Bangalore Institute of Technology* — 2015-2019 | GPA: 3.8/4.0 | Dean's List (All Semesters)
-
-**Certifications:**
-- ✅ AWS Certified Solutions Architect – Associate (2023)
-- ✅ Kubernetes Application Developer (CKAD) (2023)
-- ✅ Google Cloud Associate Cloud Engineer (2022)
-- ✅ Full Stack Web Development Specialization - Meta/Coursera (2022)
-- ✅ Open Source Contributor Award - Dev Community (2021)
+| Qualification | Institution | Duration | Result |
+|---|---|---|---|
+| **BCA - Bachelor of Computer Applications** | Govt First Grade Evening College, Tumkur | Aug 2022 - Mar 2025 | CGPA: **8.6 / 10** |
+| **PCMC** | Sarvodaya PU College, Tumkur | Jun 2020 - May 2022 | **67.5%** |
 
 ---
 
-## 🌟 Open Source & Community
+## 💡 Soft Skills
 
-- **Maintainer** of APIHub - REST API documentation generator
-- **100+ merged pull requests** across major projects including React, Next.js, Node.js, Kubernetes
-- **Active contributor** to popular open-source ecosystems
-- **Mentor** helping junior developers grow in tech
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creativity-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌱 Currently Learning & Improving
+
+- Advanced web development concepts  
+- PHP and database integration  
+- MongoDB and MySQL queries  
+- Git and GitHub project documentation  
+- Coding problem-solving skills  
+
+---
+
+## 🎯 Open to Opportunities
+
+I am actively looking for fresher opportunities in:
+
+- Software Developer Trainee  
+- Junior Web Developer  
+- PHP Developer Fresher  
+- Full Stack Developer Intern  
+- Database Intern  
+- Entry-Level IT Roles  
+
+---
+
+## ✨ Hobbies & Interests
+
+- 📚 Reading books  
+- 💻 Solving coding problems  
+- 🌱 Learning new skills  
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deepthi.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepthi-nagaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/deepthinagaraju)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepthinagaraju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat-square&logo=web&logoColor=white)](https://deepthinagaraju.dev)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=hashnode&logoColor=white)](https://deepthinagaraju.dev/blog)
+### “A fresher with curiosity, consistency, and confidence to grow.”
 
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Deepthi Nagaraju**
-
-*"Code is poetry written in logic"*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepthinagaraju&style=flat-square&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
 </div>
