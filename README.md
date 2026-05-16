@@ -3,7 +3,7 @@
 # 👩‍💻 Deepthi N  
 ### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;PHP+%7C+JavaScript+%7C+MongoDB+%7C+MySQL;Learning+Everyday+and+Building+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Real-World+Applications">
 
 </div>
 
@@ -11,9 +11,9 @@
 
 ## 🌟 About Me
 
-Hi, I’m **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
+Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
-I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I gained hands-on experience in building user-friendly interfaces, managing databases, and developing admin dashboards.
+I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I applied my technical skills to build end-to-end solutions.
 
 I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
 
@@ -143,6 +143,15 @@ const deepthi = {
 
 ---
 
+## 🏆 Certifications
+
+| Certification | Issuer |
+|---|---|
+| **Python Foundation Certification** | Infosys Springboard |
+| **Introduction to MongoDB** | Simplilearn |
+
+---
+
 ## 💡 Soft Skills
 
 <p>
@@ -187,7 +196,7 @@ I am actively looking for fresher opportunities in:
 
 <div align="center">
 
-### “A fresher with curiosity, consistency, and confidence to grow.”
+### "A fresher with curiosity, consistency, and confidence to grow."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
