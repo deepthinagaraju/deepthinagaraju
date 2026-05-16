@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👩‍💻 Deepthi N  
-### MCA Fresher | Aspiring Software Developer | Web Developer  
+### BCA Fresher | Aspiring Software Developer | Web Developer  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Scalable+Solutions;Let's+Grow+Together"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Looking+for+Fresher+Opportunities;Passionate+about+Web+Development;Building+Scalable+Solutions;Let's+Grow+Together" alt="Typing SVG" />
 
 </div>
 
@@ -11,9 +11,9 @@
 
 ## 🌟 About Me
 
-Hi, I'm **Deepthi N**, an **MCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
+Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
-I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I gained hands-on experience in full-stack development.
+I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**, where I applied my technical skills to create impactful solutions.
 
 I am currently looking for **entry-level opportunities** where I can learn, contribute, and grow as a software developer.
 
@@ -42,7 +42,7 @@ I am currently looking for **entry-level opportunities** where I can learn, cont
 const deepthi = {
   name: "Deepthi N",
   location: "Sira, Tumkur",
-  qualification: "MCA - Master of Computer Applications",
+  qualification: "BCA - Bachelor of Computer Applications",
   cgpa: "8.6 / 10",
   role: "Fresher | Aspiring Software Developer",
   interestedIn: [
@@ -159,7 +159,7 @@ const deepthi = {
 
 | Qualification | Institution | Duration | Result |
 |---|---|---|---|
-| **MCA - Master of Computer Applications** | Govt First Grade Evening College, Tumkur | Aug 2022 - Mar 2025 | CGPA: **8.6 / 10** |
+| **BCA - Bachelor of Computer Applications** | Govt First Grade Evening College, Tumkur | Aug 2022 - Mar 2025 | CGPA: **8.6 / 10** |
 | **PCMC** | Sarvodaya PU College, Tumkur | Jun 2020 - May 2022 | **67.5%** |
 
 ---
@@ -223,7 +223,7 @@ I am actively looking for fresher opportunities in:
 ## 📈 My Coding Journey
 
 ```
-📅 2022 - Started MCA degree
+📅 2022 - Started BCA degree
 🎯 2023 - Built first full-stack project (Car Rental System)
 🩸 2024 - Developed Blood Bank Management System
 🏆 2024 - Earned Python & MongoDB Certifications
