@@ -1,416 +1,191 @@
 <div align="center">
 
-# 🚀 Deepthi Nagaraju
+# Deepthi Nagaraju
 
-**Full Stack Developer | Cloud Architect | Open Source Craftsperson**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   Building the future, one line of code at a time ⚡         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepthi.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepthi-nagaraju)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepthinagaraju)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B00?style=for-the-badge&logo=web&logoColor=white)](https://deepthinagaraju.dev)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepthinagaraju)
-[![Blog](https://img.shields.io/badge/📝_Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://deepthinagaraju.dev/blog)
-
-<br>
-
-> **"Code is poetry written in logic"** — Crafting elegant solutions that scale beyond imagination
-> 
-> *From 0 to 100K+ DAU, one deployment at a time* 🚀
-
-<br>
+**Full Stack Developer | Cloud Architect | Open Source Enthusiast**
 
 </div>
 
 ---
 
-## 🎯 Quick Stats
+## 🎯 About Me
 
-<div align="center">
+Full-stack engineer with **5+ years of experience** building scalable, production-grade applications. I specialize in crafting elegant solutions that solve real-world problems and serve 100K+ users with 99.9% uptime. Currently a **Senior Full Stack Developer** at TechVision Solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepthinagaraju&theme=radical&hide_border=true)](https://github.com/deepthinagaraju)
-
-</div>
+- 🌍 Based in **Bangalore, India**
+- 💼 **Senior Full Stack Developer** @ TechVision Solutions
+- 🎯 **Focus:** Scalable architectures, cloud infrastructure, system design
+- 🧠 **Learning:** Advanced Kubernetes, distributed systems
+- 🤝 **Open to:** Collaborations, mentoring, community building
 
 ---
 
-## 👋 About Me
+## 🛠️ Tech Stack
 
-I'm a passionate **full-stack engineer** with **5+ years of experience** crafting robust, scalable applications that solve real-world problems. I thrive at the intersection of **frontend elegance** and **backend performance**, with a special love for **cloud architecture** and **distributed systems**.
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- 🌍 **Based in:** Bangalore, India
-- 💼 **Currently:** Senior Full Stack Developer @ TechVision Solutions
-- 📍 **Passion:** Building systems that serve 100K+ users with **99.9% uptime**
-- 🧠 **Learning:** Kubernetes Orchestration & Advanced System Design
-- ⚡ **Superpower:** Turning coffee ☕ into scalable code
-- 🎵 **Hobby:** Contributing to open source & mentoring developers
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
----
+### Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 🛠️ Technical Arsenal
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-### 💻 Languages & Paradigms
-```
-JavaScript (ES6+) ██████████ | Python ████████░░ | TypeScript ██████████
-Java ████████░░ | Go ██████░░░░ | SQL ██████████
-```
-
----
-
-### 🎨 Frontend Technologies
-
-<div align="center">
-
-#### 📱 My Frontend Toolkit
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                              ┃
-┃  ⚛️  React.js          🌱 Building interactive UI
-┃  ▲   Next.js           🌱 Full-stack magic
-┃  💚  Vue.js            🌱 Progressive learning
-┃  🎨  Tailwind CSS      🌱 Utility-first design
-┃  📦  Redux             🌱 State management
-┃  ⚡  GraphQL           🌱 Query optimization
-┃                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-**Quick Access:**
-
-[![React](https://img.shields.io/badge/⚛️%20React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/▲%20Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Vue](https://img.shields.io/badge/💚%20Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
-[![Tailwind](https://img.shields.io/badge/🎨%20Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Redux](https://img.shields.io/badge/📦%20Redux-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
-[![GraphQL](https://img.shields.io/badge/⚡%20GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
-
-</div>
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ---
 
-### 🔧 Backend & Cloud
+## 💼 Professional Experience
 
-<div align="center">
+### Senior Full Stack Developer @ TechVision Solutions
+**Jan 2023 - Present** | Remote
 
-#### 🚀 Server-Side Arsenal
+- **Analytics Platform:** Designed real-time dashboard processing 500K+ events/day with 45% latency reduction through intelligent caching
+- **Team Leadership:** Mentored 4 junior developers through code reviews, architecture decisions, and best practices
+- **Cloud Optimization:** Architected microservices on AWS, reducing infrastructure costs by 30% while improving throughput by 3x
+- **Security Implementation:** Deployed OAuth2, JWT, and role-based access control across production systems
+- **Key Tech:** React, Node.js, PostgreSQL, Docker, AWS, Redis, GraphQL
 
-```
-╔════════════════════════════════════════════╗
-║                                            ║
-║  Node.js       ████████████░░  EXPERT      ║
-║  Express       ████████████░░  EXPERT      ║
-║  Django        ██████████░░░░  ADVANCED    ║
-║  FastAPI       ████████░░░░░░  ADVANCED    ║
-║  Docker        ████████████░░  EXPERT      ║
-║  Kubernetes    ██████████░░░░  ADVANCED    ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
+### Full Stack Developer @ DataSync Technologies
+**Jun 2021 - Dec 2022** | Bangalore
 
-**Tech Stack Badges:**
+- **SaaS Platform:** Built data integration platform serving 500+ enterprises
+- **Real-time Features:** Implemented WebSocket sync enabling live collaboration
+- **API Optimization:** Reduced GraphQL query latency by 50% through intelligent caching
+- **Product Ownership:** End-to-end ownership of 3 major features with 100K+ users
+- **Key Tech:** Next.js, Python Django, MongoDB, GraphQL, GCP
 
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+### Junior Developer @ StartupHub Inc.
+**Jul 2019 - May 2021** | Bangalore
 
-</div>
-
----
-
-### 📊 Databases & Data Tools
-
-<div align="center">
-
-#### 🗄️ Data Management Hub
-
-```
-┌─────────────────────────────────────────┐
-│                                         │
-│  🐘 PostgreSQL     ████████████░  EXPERT      │
-│  🍃 MongoDB        ██████████░░░  ADVANCED    │
-│  🔴 Redis          ██████████░░░  ADVANCED    │
-│  🔥 Firebase       ████████░░░░░  INTERMEDIATE│
-│  🔍 Elasticsearch  ████████░░░░░  INTERMEDIATE│
-│  📨 Kafka          ██████████░░░  ADVANCED    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-**Database Connections:**
-
-[![PostgreSQL](https://img.shields.io/badge/🐘%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/🔴%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
-[![Firebase](https://img.shields.io/badge/🔥%20Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Elasticsearch](https://img.shields.io/badge/🔍%20Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co)
-[![Kafka](https://img.shields.io/badge/📨%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
-
-</div>
-
----
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-#### ⛅ Cloud Infrastructure & Deployment
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                           ┃
-┃  ☁️  AWS ECOSYSTEM                        ┃
-┃     └─ EC2, S3, Lambda, RDS, CloudFront   ┃
-┃     └─ VPC, IAM, CloudWatch               ┃
-┃     └─ 🏆 EXPERT LEVEL                    ┃
-┃                                           ┃
-┃  🟦 Google Cloud Platform                 ┃
-┃     └─ Compute, Storage, BigQuery         ┃
-┃     └─ Cloud Run, Pub/Sub                 ┃
-┃     └─ 📊 ADVANCED LEVEL                  ┃
-┃                                           ┃
-┃  ⚙️  CI/CD & Orchestration                ┃
-┃     └─ GitHub Actions, Jenkins            ┃
-┃     └─ ArgoCD, Helm, Terraform            ┃
-┃     └─ 🏆 EXPERT LEVEL                    ┃
-┃                                           ┃
-┃  🏗️  Architecture Patterns                ┃
-┃     └─ Microservices, Serverless          ┃
-┃     └─ Event-Driven, API-First            ┃
-┃     └─ 🏆 EXPERT LEVEL                    ┃
-┃                                           ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-**Cloud Platforms:**
-
-[![AWS](https://img.shields.io/badge/☁️%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/🟦%20GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![GitHub Actions](https://img.shields.io/badge/⚙️%20GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Terraform](https://img.shields.io/badge/🏗️%20Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io)
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-### 🏢 Senior Full Stack Developer @ TechVision Solutions
-**Jan 2023 - Present** | *Remote*
-
-- 🚀 **Led analytics transformation:** Designed a real-time dashboard processing 500K+ events/day, reducing query latency by **45%** through intelligent caching
-- 👥 **Mentored team:** Guided 4 junior developers through code reviews, architecture decisions, and best practices
-- 📈 **Cloud optimization:** Architected microservices on AWS, cutting infrastructure costs by **30%** while improving throughput by **3x**
-- 🔒 **Security first:** Implemented OAuth2, JWT, and role-based access control across the platform
-- **Tech Stack:** React, Node.js, PostgreSQL, Docker, AWS, Redis, GraphQL
-
-### 🚀 Full Stack Developer @ DataSync Technologies
-**Jun 2021 - Dec 2022** | *Bangalore*
-
-- 💼 Built **SaaS platform** serving 500+ enterprises for data integration
-- ⚡ Implemented real-time WebSocket sync, enabling live collaboration features
-- 📉 Optimized GraphQL API, reducing client-side data fetching by **50%**
-- 🎯 End-to-end product ownership for 3 major features
-- **Tech Stack:** Next.js, Python Django, MongoDB, GraphQL, GCP
-
-### 👨‍💻 Junior Developer @ StartupHub Inc.
-**Jul 2019 - May 2021** | *Bangalore*
-
-- 🎨 Developed 20+ responsive web applications with React & Vue.js
-- 🔐 Built authentication/authorization backends in Node.js
-- ✅ Maintained 85%+ test coverage across all microservices
-- **Tech Stack:** JavaScript, React, Vue.js, Node.js, SQLite, Firebase
+- **Web Applications:** Developed 20+ responsive applications with React & Vue.js
+- **Authentication:** Built secure backends with Node.js and implemented JWT flows
+- **Testing:** Maintained 85%+ test coverage across all microservices
+- **Key Tech:** JavaScript, React, Vue.js, Node.js, Firebase
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 Real-Time Data Pipeline Dashboard
-**[GitHub](https://github.com/deepthinagaraju/data-pipeline-dashboard) | [Live Demo](https://demo.example.com)**
+### Real-Time Data Pipeline Dashboard
+**[View Project](https://github.com/deepthinagaraju/data-pipeline-dashboard) | [Live Demo](https://demo.example.com)**
 
-Your ultimate ETL monitoring command center. Real-time metrics, anomaly detection, and predictive alerts.
+ETL monitoring platform with real-time metrics and AI-powered anomaly detection.
 
-```
-Features:
-✨ Live WebSocket data streaming from Kafka
-📊 Interactive D3.js visualizations
-🚨 AI-powered anomaly detection
-🔐 Role-based access control (RBAC)
-📱 Mobile-responsive design
-💾 Time-series data optimization
-```
-
-- **Impact:** Reduced data debugging time by **60%** for 200+ users
-- **Scale:** Handles 500K+ events per day with sub-100ms latency
-- **Tech:** React, Node.js, PostgreSQL, Docker, Kafka, AWS, D3.js
+**Impact:** 60% reduction in debugging time | 200+ active users | 500K+ events/day  
+**Performance:** Sub-100ms latency | 99.9% uptime  
+**Tech:** React | Node.js | PostgreSQL | Kafka | Docker | AWS | D3.js
 
 ---
 
-### 🛍️ E-Commerce Microservices Platform
-**[GitHub](https://github.com/deepthinagaraju/ecommerce-platform) | [Live Demo](https://shop.example.com)**
+### E-Commerce Microservices Platform
+**[View Project](https://github.com/deepthinagaraju/ecommerce-platform) | [Live Demo](https://shop.example.com)**
 
-A production-grade e-commerce engine built to scale. Handles Black Friday traffic like a breeze.
+Production-grade e-commerce engine handling 100K+ SKUs and 10K+ concurrent users.
 
-```
-Features:
-🛒 Product catalog with 100K+ SKUs
-💳 Stripe & PayPal integration
-📦 Real-time inventory management
-👤 Admin dashboard with analytics
-⚡ 99.9% SLA uptime
-🔄 Order tracking & notifications
-```
-
-- **Concurrency:** 10K+ concurrent users
-- **Performance:** Achieved **99.9% uptime** with 25% checkout conversion boost
-- **Tech:** Next.js, Node.js, MongoDB, Docker, Kubernetes, Redis, AWS Lambda
+**Impact:** 99.9% SLA uptime | 25% checkout conversion increase  
+**Performance:** Handles Black Friday traffic with zero downtime  
+**Tech:** Next.js | Node.js | MongoDB | Kubernetes | Redis | AWS Lambda
 
 ---
 
-### 🤖 AI-Powered Content Recommendation Engine
-**[GitHub](https://github.com/deepthinagaraju/ml-recommendation-engine)**
+### AI-Powered Recommendation Engine
+**[View Project](https://github.com/deepthinagaraju/ml-recommendation-engine)**
 
-Machine learning meets user delight. Personalized recommendations that actually matter.
+Machine learning system delivering personalized content recommendations with 94% accuracy.
 
-```
-Features:
-🧠 Collaborative filtering algorithm
-📚 NLP-based content similarity
-🧪 A/B Testing framework
-🎯 Real-time inference API
-📈 User behavior analytics
-```
-
-- **Impact:** Boosted user engagement by **40%**, content consumption by **35%**
-- **Model:** TensorFlow-based with 94% recommendation accuracy
-- **Tech:** Python, TensorFlow, Flask, PostgreSQL, Redis, Docker
+**Impact:** 40% user engagement increase | 35% content consumption increase  
+**Tech:** Python | TensorFlow | Flask | PostgreSQL | Docker
 
 ---
 
-### 📡 APIHub - REST API Documentation Generator
-**[GitHub](https://github.com/deepthinagaraju/apihub)**
+### APIHub - REST API Documentation Generator
+**[View Project](https://github.com/deepthinagaraju/apihub)**
 
-Open source tool trusted by developers worldwide. Making API docs beautiful and interactive.
+Open-source tool trusted by developers worldwide for beautiful, interactive API documentation.
 
-- 📖 **10K+ weekly downloads**
-- 🛠️ **Actively maintained** with 50+ contributors
-- 🎨 **Beautiful UI** with dark mode support
+**Stats:** 10K+ weekly downloads | 50+ contributors | Actively maintained
 
 ---
 
-## 📜 Certifications & Achievements
+## 🎓 Education & Certifications
+
+**Bachelor of Technology** in Computer Science and Engineering  
+*Bangalore Institute of Technology* — 2015-2019 | GPA: 3.8/4.0 | Dean's List (All Semesters)
+
+**Certifications:**
+- ✅ AWS Certified Solutions Architect – Associate (2023)
+- ✅ Kubernetes Application Developer (CKAD) (2023)
+- ✅ Google Cloud Associate Cloud Engineer (2022)
+- ✅ Full Stack Web Development Specialization - Meta/Coursera (2022)
+- ✅ Open Source Contributor Award - Dev Community (2021)
+
+---
+
+## 🌟 Open Source & Community
+
+- **Maintainer** of APIHub - REST API documentation generator
+- **100+ merged pull requests** across major projects including React, Next.js, Node.js, Kubernetes
+- **Active contributor** to popular open-source ecosystems
+- **Mentor** helping junior developers grow in tech
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthinagaraju&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthinagaraju&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
-| Badge | Certification | Year |
-|:---:|---|:---:|
-| 🏆 | **AWS Certified Solutions Architect – Associate** | 2023 |
-| 🏆 | **Kubernetes Application Developer (CKAD)** | 2023 |
-| 🏆 | **Google Cloud Associate Cloud Engineer** | 2022 |
-| 🏆 | **Full Stack Web Development Specialization** (Meta/Coursera) | 2022 |
-| 🌟 | **Open Source Contributor Award** (Dev Community) | 2021 |
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deepthi.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepthi-nagaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/deepthinagaraju)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepthinagaraju)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat-square&logo=web&logoColor=white)](https://deepthinagaraju.dev)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=hashnode&logoColor=white)](https://deepthinagaraju.dev/blog)
 
 </div>
 
 ---
 
-## 🌟 Open Source Contributions
-
-```
-┌─ React Ecosystem (facebook/react)
-│  └─ Performance optimization patches & bug fixes
-│
-├─ APIHub (Maintainer)
-│  └─ REST API documentation generator
-│
-└─ 100+ merged pull requests across major projects
-   ├─ Next.js
-   ├─ Node.js
-   ├─ Kubernetes
-   └─ and many more...
-```
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology** in **Computer Science and Engineering**
-*Bangalore Institute of Technology* — **2015 - 2019**
-
-- 🎯 **GPA:** 3.8/4.0
-- 📝 **Dean's List:** All Semesters
-- 📚 **Relevant Coursework:** Data Structures, Operating Systems, Database Management, Software Engineering, AI & ML, System Design
-
----
-
-## 💡 Currently Exploring
-
-```
-🔍 Advanced system design patterns & distributed computing
-🤖 Large Language Models (LLMs) & RAG applications
-📚 Technical writing & developer advocacy
-🤝 Building developer communities & open source mentorship
-🔮 WebAssembly (WASM) for next-gen web apps
-```
-
----
-
-## 📊 What I Value
-
 <div align="center">
 
-| 🎯 | 🚀 | 💪 | 🤝 | ♻️ |
-|:---:|:---:|:---:|:---:|:---:|
-| **Clean Code** | **Scalability** | **Performance** | **Collaboration** | **Sustainability** |
-| Writing code that's readable & maintainable | Building systems that grow with demand | Every millisecond matters | Great teams build great things | Write code for tomorrow |
+**Made with ❤️ by Deepthi Nagaraju**
 
-</div>
+*"Code is poetry written in logic"*
 
 ---
-
-## 🔗 Let's Connect & Collaborate!
-
-I'm always excited about:
-- 💬 Discussing architecture & system design
-- 🚀 Collaborating on exciting projects
-- 📖 Sharing knowledge & mentoring
-- 🤝 Building developer communities
-- 🌍 Open source contributions
-
-### 📬 Reach Out!
-
-- 📧 **Email:** [deepthi.dev@gmail.com](mailto:deepthi.dev@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/deepthi-nagaraju](https://linkedin.com/in/deepthi-nagaraju)
-- 🐦 **Twitter:** [@deepthinagaraju](https://twitter.com/deepthinagaraju)
-- 📝 **Blog:** [deepthinagaraju.dev](https://deepthinagaraju.dev)
-- 💻 **GitHub:** [github.com/deepthinagaraju](https://github.com/deepthinagaraju)
-
----
-
-<div align="center">
-
-### 💻 Latest Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepthinagaraju&style=flat-square&color=blue)
-
-**Made with ❤️ and ☕ by Deepthi Nagaraju**
-
-*"The best code is not the one that works, but the one that's understood by others"*
-
----
-
-**Let's build amazing things together!** 🚀
 
 </div>
