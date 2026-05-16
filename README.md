@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-Hi, I'm **Deepthi N**, a **BCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
+Hi, I'm **Deepthi N**, a **MCA fresher** from Tumkur with a strong interest in **software development, web development, and database management**.  
 
 I enjoy creating practical web-based applications that solve real-world problems. I have worked on projects like an **Online Car Rental System** and an **Online Blood Bank Management System**.
 
